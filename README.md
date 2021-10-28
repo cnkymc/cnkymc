@@ -33,6 +33,6 @@
 <p align="center">
 <a href="https://github.com/cnkymc">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=cnkymc&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="erdemgokmuharrem"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cnkymc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="cnkymc"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cnkymc&show_icons=true&locale=en&layout=compact" alt="cnkymc"/>
 </a>
 </p>
