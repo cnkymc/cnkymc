@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Yunus Can</h1>
+
 <h1 align="center">Merhaba 👋, Ben Yunus</h1>
 <h3 align="center">Merhaba, 22 yaşındayım. Kastamonu Üniversitesi Bilgisayar Programcılığı bölümünden mezun olmuş ve Anadolu Üniversitesi Yönetim Sistemleri eğitimine devam edeceğim. Öğrenirken işletmem hoşluğumu görebileceğinizme profilim</h3>
 
