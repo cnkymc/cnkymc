@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yunus</h1>
-<h3 align="center">Merhaba, 25 yaşındayım. Kastamonu Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum ve Anadolu Üniversitesi Yönetim Bilişim Sistemleri bölümünde eğitimime devam etmekteyim. Öğrenirken ürettiğim projelerimi görebileceğiniz profilime hoş geldiniz</h3>
+<h3 align="center">Merhaba, 27 yaşındayım. Kastamonu Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum ve Anadolu Üniversitesi Yönetim Bilişim Sistemleri bölümünde eğitimime devam etmekteyim. Öğrenirken ürettiğim projelerimi görebileceğiniz profilime hoş geldiniz</h3>
 
 ### 🛠 Tech Stack
 
